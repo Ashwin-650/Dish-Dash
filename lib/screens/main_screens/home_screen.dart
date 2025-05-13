@@ -21,7 +21,7 @@ class HomeScreen extends StatelessWidget {
         title: CustomContainer(
           height: 70,
           isAsset: false,
-          image: 'assets/Group 3.png',
+          image: 'assets/header.png',
           boxFit: BoxFit.contain,
         ),
         centerTitle: true,

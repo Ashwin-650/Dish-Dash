@@ -12,7 +12,7 @@ class SplashScreen extends StatelessWidget {
       backgroundColor: Colors.brown,
       body: CustomContainer(
         isAsset: false,
-        image: 'assets/Group 1.png',
+        image: 'assets/splash.png',
         boxFit: BoxFit.fill,
       ),
     );
