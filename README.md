@@ -1,16 +1,32 @@
-# dish_dash
+ Cooking Recipe App – Project 
 
-A new Flutter project.
+ 
+   Project Title:
+Dish Dash 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Core Features
 
-A few resources to get you started if this is your first Flutter project:
+-> Home Page
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+    Displays featured recipes
+    Shows categories (e.g., Breakfast, Lunch, Dinner, Desserts)
+    
+-> Search Functionality
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Keyword-based search (e.g., “chicken curry”, “vegan pasta”)
+    Real-time search suggestions
+    
+->  Recipe Details Page
+
+      Recipe title, description, and image
+      List of ingredients
+      Step-by-step instructions
+      YouTube video link with embedded video player or redirect
+
+
+
+
+
+
+
